@@ -1,0 +1,2 @@
+output/20220120/Day/Cartridge1_W1118_W1118_W1118_W1118_W1118_Or7a_D_DPG_1-heptanol_2-pentanol_1AA_BA/t20220120_182854.csv filter=lfs diff=lfs merge=lfs -text
+output/20220120/Day/Cartridge1_W1118_W1118_W1118_W1118_W1118_Or7a_D_DPG_1-heptanol_2-pentanol_1AA_BA/t20220120_182854.mp4 filter=lfs diff=lfs merge=lfs -text
